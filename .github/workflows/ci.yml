@@ -1,6 +1,3 @@
-# The workflow must run on push to develop and feature branches. 
-# The CI workflow should include steps to restore dependencies, build the application and run all tests. 
-
 name: Dotnet CI Workflow
 
 on:
